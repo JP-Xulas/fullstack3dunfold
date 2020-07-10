@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    font-size: 26px;
+}
+
+.menu ul li {
+    display: inline;
+    list-style: none;
+    padding: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: palegoldenrod;
+}
+
+
+.menu ul {
+    padding:10px 10px 10px 10px;
+    margin:0px;
+    position: absolute;
+    text-decoration: none;
+    position: fixed;
+}
+a:hover {
+    color: #6D6D6D;
+    border-bottom:3px solid orange}
+
+.imginicial img {
+    width: 100%;
+}
